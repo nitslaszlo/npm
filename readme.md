@@ -41,7 +41,7 @@ npm cache clean --force
 npm view <package>
 npm view <package> versions
 ```
-## 7. npm csomag(ok) és az npm frissítése
+## 8. npm csomag(ok) és az npm frissítése
 ```sh
 npm update
 npm update -g
@@ -49,5 +49,7 @@ npm update <package>
 npm update -g <package>
 npm update -g npm
 ```
- 
-
+## 9. vue3-Vite-TypeScript-Pinia-Vitest-Cypress-Eslint-Prettier projekt létrehozása
+```sh
+npm create vue@latest
+```
