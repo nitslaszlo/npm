@@ -20,10 +20,10 @@ npm ls -g
 npm install
 npm i
 ```
-## 4. Megadott node csomag telepítése (g->global)
+## 4. Megadott node csomag telepítése (g->global, D->devDep.)
 ```sh
-npm i [-g] <package>
-npm install [-g] <package>
+npm i [-g] [-D] <package>
+npm install [-g] [-D] <package>
 ```
 ## 5. Megadott node csomag törlése (g->global)
 ```sh
